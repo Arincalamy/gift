@@ -1,0 +1,7 @@
+{
+  "name": "Gift Card CEO Panel",
+  "description": "An admin panel for a CEO to create, manage, and track custom gift cards with unique codes, QR codes, payment status, and expiration dates.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
